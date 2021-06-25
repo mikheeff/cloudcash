@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Suprema';
+    src: url('/assets/fonts/Suprema/Suprema-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Suprema';
+    src: url('/assets/fonts/Suprema/Suprema-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
