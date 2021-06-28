@@ -1,14 +1,63 @@
 @font-face {
     font-family: 'Suprema';
-    src: url('/assets/fonts/Suprema/Suprema-Regular.ttf');
+    src: url('../assets/fonts/Suprema/Suprema-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Suprema';
+    src: url('../assets/fonts/Suprema/Suprema-Regular.ttf');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Suprema';
-    src: url('/assets/fonts/Suprema/Suprema-SemiBold.ttf');
+    src: url('../assets/fonts/Suprema/Suprema-SemiBold.ttf');
     font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../assets/fonts/Lato/Lato-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../assets/fonts/Lato/Lato-Bold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../assets/fonts/Quicksand/Quicksand-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../assets/fonts/Quicksand/Quicksand-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../assets/fonts/Quicksand/Quicksand-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../assets/fonts/Quicksand/Quicksand-Bold.ttf');
+    font-weight: 700;
     font-style: normal;
 }
 
